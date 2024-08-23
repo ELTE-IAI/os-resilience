@@ -4,7 +4,7 @@ The original video of the talk has been removed from NumFOCUS' official channel,
 
 It has been [reuploaded here](https://youtu.be/IsD39KtraWI).
 
-The views and opinions expressed in this video are solely those of the presenter.
+The views and opinions expressed in below slides and the linked video are solely those of the presenter.
 
 
 ### Slides
